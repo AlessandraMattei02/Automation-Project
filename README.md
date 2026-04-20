@@ -1,3 +1,5 @@
+**STIR Option Strategy Automatised Framework**
+
 This work develops a framework model implemented in Python to support the
 selection of option strategies on short-term interest rate (STIR) futures starting
 from a qualitative market view.
